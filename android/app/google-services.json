@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "125192465149",
+    "firebase_url": "https://test-project-be482-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "test-project-be482",
+    "storage_bucket": "test-project-be482.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125192465149:android:838a0552bbd1ec5dc4ac94",
+        "android_client_info": {
+          "package_name": "com.example.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125192465149-ab7vvab9l8ld7761hqn2iqlmnhpb0ici.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqyINCHLpj6c78UvhL-qdEAfccdXJzlKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125192465149-ab7vvab9l8ld7761hqn2iqlmnhpb0ici.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
